@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Company>SquirtingElephant</Company>
+    <Authors>SquirtingElephant</Authors>
+    <Description>Common Code-First SQL Server database configuration type constants.</Description>
+    <Copyright>MIT license.</Copyright>
+    <PackageLicenseFile></PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<NeutralLanguage>en</NeutralLanguage>
+	<RepositoryUrl>https://github.com/SquirtingElephant/Elephant.DbTypes.SqlServer</RepositoryUrl>
+	<PackageProjectUrl>https://github.com/SquirtingElephant/Elephant.DbTypes.SqlServer</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
